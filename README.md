@@ -7,4 +7,4 @@
 
 全屏幕滑动返回效果图
 
-![image](https://github.com/hanhailong/SlidingMenuSwipeBackDemo/blob/master/screenshot/slidingmenu_fullscreen.gif?raw=true
+![image](https://github.com/hanhailong/SlidingMenuSwipeBackDemo/blob/master/screenshot/slidingmenu_fullscreen.gif?raw=true)
